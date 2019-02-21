@@ -1,0 +1,4 @@
+# find_foer
+查找pixivnewfoer和unfoer并生成member link到txt
+
+需手动复制foer列表的网页代码到txtNew.txt
